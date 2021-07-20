@@ -5,7 +5,7 @@
 [<img src ="https://img.shields.io/badge/Website-AD-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://www.eabahurire.com/)
 
 
-#### My career has mostly involved building highly available data processing pipelines, performant web applications and realtime data vizualization dashboards. I'm a sucker for good programming practices and writing maintainable code.
+#### My career has chiefly involved building highly available data processing pipelines, performant web applications, and real-time data visualization dashboards. I'm a sucker for good programming practices and writing maintainable code.
 
 <br>
 
