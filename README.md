@@ -30,6 +30,6 @@
 <div align="center">
   
 ### Show some ❤️ by reviewing my open-source PRs or contributing to some of my repositories!
-### Also drop a ⭐ if you like a project!
+### Also, drop a ⭐ if you like a project!
 
 </div>
