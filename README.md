@@ -22,7 +22,7 @@
 
 **I've ever written code for 102 days straight. That dedication!** 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=simicode&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simicode&fire=DD2727&dates=000ADD)](https://git.io/streak-stats)
 
 
 <br>
