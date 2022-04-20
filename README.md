@@ -1,8 +1,4 @@
-### Hi there, I'm Edison Abahurire 👋
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eabahurire/)
-[<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/7806024/simic0de)
-
+### Hi there, I'm Edison 👋
 
 #### My 10 year career has chiefly involved building highly available data processing pipelines, performant web applications, and real-time data visualization dashboards. I'm a sucker for good programming practices and writing maintainable code while keeping it simple and readable.
 
