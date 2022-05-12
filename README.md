@@ -6,18 +6,18 @@
 
 📈 **My GitHub Stats:** 
 
-![](https://komarev.com/ghpvc/?username=asyncverse&color=blueviolet&style=flat)
+![](https://komarev.com/ghpvc/?username=edison12a&color=blueviolet&style=flat)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asyncverse&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=contribs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edison12a&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=contribs" />
 
 **I Mostly Code in Python** 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyncverse&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edison12a&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 **I've ever written code for 102 days straight. That dedication!** 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asyncverse&fire=DD2727&dates=000ADD)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edison12a&fire=DD2727&dates=000ADD)](https://git.io/streak-stats)
 
 
 <br>
