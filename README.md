@@ -1,6 +1,6 @@
 ### Hi there, I'm Edison 👋
 
-#### My 10 year career has chiefly involved building highly available data processing pipelines, performant web applications, and real-time data visualization dashboards. I'm a sucker for good programming practices and writing maintainable code while keeping it simple and readable.
+#### My career has chiefly involved building highly available data processing pipelines, performant web applications, and real-time data visualization dashboards. I'm a sucker for good programming practices and writing maintainable code while keeping it simple and readable.
 
 <br>
 
